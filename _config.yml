@@ -29,11 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 portfolio:
   info:
     name:
-      firstname: Mr
-      lastname: Incognito
+      firstname: Mischa
+      lastname: Rauch
     location: Maastricht
     phonenumber: (000) 000-0000
-    email: incognito@maastrichtuniversity.nl
+    email: mischa@maastrichtuniversity.nl
   social:
     # twitter: your-username
     facebook: MsvIncognito
